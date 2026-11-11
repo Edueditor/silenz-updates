@@ -1,9 +1,8 @@
 {
-  "version": "1.3.2",
+  "version": "1.3.3",
   "date": "2026-11-10",
   "notes": [
-    "Corrige o Remover silêncios quando a voz é um áudio solto (sem vínculo com vídeo), como o áudio tratado pelo Vozzy",
-    "Se o Remover falhar, o aviso agora fica na tela"
+    "Com muitas faixas, a lista 'Onde está a voz' rola sozinha e mostra '+N faixas ↓'; o resto do painel fica fixo"
   ],
   "url": "https://github.com/Edueditor/silenz-updates/releases/latest/download/Silenz_completo.zip",
   "page": "https://github.com/Edueditor/silenz-updates"
