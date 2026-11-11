@@ -1,11 +1,9 @@
 {
-  "version": "1.3.1",
+  "version": "1.3.2",
   "date": "2026-11-10",
   "notes": [
-    "Topo fixo igual em todos os plugins: ícone e ? não mudam ao trocar de aba.",
-    "Limpar cache seguro: só temporários do Silenz que não estão no projeto, e vão para a Lixeira.",
-    "Seus ajustes ficam num arquivo permanente (Application Support/Silenz).",
-    "Tudo maior e encaixado na janela; etapa 2 com a onda maior."
+    "Corrige o Remover silêncios quando a voz é um áudio solto (sem vínculo com vídeo), como o áudio tratado pelo Vozzy",
+    "Se o Remover falhar, o aviso agora fica na tela"
   ],
   "url": "https://github.com/Edueditor/silenz-updates/releases/latest/download/Silenz_completo.zip",
   "page": "https://github.com/Edueditor/silenz-updates"
